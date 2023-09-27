@@ -1,4 +1,4 @@
-from msilib.schema import Class
+# from msilib.schema import Class
 from click import DateTime
 from django.db import models
 from ckeditor.fields import RichTextField
